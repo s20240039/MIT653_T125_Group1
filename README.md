@@ -19,7 +19,7 @@ Supervisor: Dr. Lien Nguyen (Lien.Nguyen@sydneyinstitute.edu.au)
 
 ## Project details:
 
-
-
-## Links:
+[Project Plan](ProjectPlan.md) | [Literature Review](LiteratureReview.md) | [Project Proposal](ProjectProposal.md) | [Survey Design](SurveyDesign.md) |
+[Data Analysis](DataAnalysis.md) | [Ethics Approval Application](EthicsApprovalApplication.md) | [Project Reflection](ProjectReflection.md) |
+[Files](Files) | [Images](Images)
 
