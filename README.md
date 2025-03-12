@@ -9,14 +9,11 @@ This is a research journal for MIT653.
 
 
 ## Group Members:
-Student Name: Susan Shrestha
-Student ID: s20240008
+Student Name: Susan Shrestha (s20240008)
 
-Student Name: Diwash Ojha
-Student ID: s20240348
+Student Name: Diwash Ojha (s20240348)
 
-Student Name: Darren Manapol
-Student ID:s20240039
+Student Name: Darren Manapol (s20240039)
 
 Supervisor: Dr. Lein Nguyen (Lein.Nguyen@sydneyinstitute.edu.au)
 
