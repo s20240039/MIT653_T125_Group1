@@ -6,7 +6,7 @@ This is a research journal for MIT653.
 
 Application of machine learning in detection of cyberattacks on critical infrastructures with focus on power grids/smart grids
 
-
+Advantages and disadvantages of using plugins on cyberattack
 
 
 
