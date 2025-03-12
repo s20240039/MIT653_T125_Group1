@@ -15,7 +15,7 @@ Student Name: Diwash Ojha (s20240348)
 
 Student Name: Darren Manapol (s20240039)
 
-Supervisor: Dr. Lein Nguyen (Lein.Nguyen@sydneyinstitute.edu.au)
+Supervisor: Dr. Lien Nguyen (Lien.Nguyen@sydneyinstitute.edu.au)
 
 ## Project details:
 
