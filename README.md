@@ -4,6 +4,11 @@ This is a research journal for MIT653.
 
 ## Research Question:
 
+Application of machine learning in detection of cyberattacks on critical infrastructures with focus on power grids/smart grids
+
+
+
+
 
 ## Hypothesis:
 
