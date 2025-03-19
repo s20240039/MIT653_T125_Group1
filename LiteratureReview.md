@@ -17,9 +17,13 @@
      (https://ieeexplore.ieee.org/document/10561386)
   2. Application of artificial intelligence in electrical power systems. 
       (https://ieeexplore.ieee.org/document/9089447)
-  - 
-  - 
-  - 
+  3. Artificial Intelligence - Enabled Smart Grids: Enhancing Efficiency and Sustainability
+     https://ieeexplore.ieee.org/document/10395590
+  4. Prediction of False Data Injection Attacks in Smart Grid using AdaBoost, Deep Learning, and KNN
+     https://ieeexplore.ieee.org/document/10849233
+  
+   
+   
 
 
 #### Research Paper #1
