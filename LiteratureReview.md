@@ -29,7 +29,17 @@
 
 #### Research Paper #2 - [Link 2](https://ieeexplore.ieee.org/document/10561386)
     #2 - The Role of Machine Learning Algorithms in Smart Grid Cybersecurity.
+    Theme: The paper discusses on how machine learning (ML) algorithms enhances smart grid cybersecurity, especially in the context of the growing number of cyberattacks that target these systems.
+    Key findings:
+    Performance of Algorithms: The study found that the Random Forest and Extreme Tree models are highly effective in 
+    detecting cyber threats.
+Importance of Machine Learning: The research emphasizes that machine learning models are crucial for addressing complex     cyber threats in the energy sector and these models are more effective than the traditional security measure.
+Methodology:
+The paper rigorously evaluated the performance of various machine learning algorithms, including Bagging tree, Random Forest, Adaboost, and Extreme Tree. The evaluation was based on metrics such as accuracy, precision, recall, and F1 score. The study also involved analyzing network traffic, user behavior, and system logs to detect abnormalities that could indicate cyber threats.
+Research Gap: 
+This research indicates that further investigation is needed to inprove the effectiveness of cybersecurity solution in energy sector.
 
+    
 #### Research Paper #3 - [Link 3](https://ieeexplore.ieee.org/document/10849233)
     #3 - Prediction of False Data Injection Attacks in Smart Grid using AdaBoost, Deep Learning, and KNN
 
