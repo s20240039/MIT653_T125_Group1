@@ -26,6 +26,7 @@
 
 #### Research Paper #1 - [Link 1](https://ieeexplore.ieee.org/document/9337067)
     #1 - A Review on SMART GRID Power System Network
+    Theme: 
 
 #### Research Paper #2 - [Link 2](https://ieeexplore.ieee.org/document/10561386)
     #2 - The Role of Machine Learning Algorithms in Smart Grid Cybersecurity.
