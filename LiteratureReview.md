@@ -30,7 +30,7 @@
   13. [New Approach to Determine DDoS Attack Patterns on SCADA System Using Machine Learning](https://ieeexplore.ieee.org/document/8716432)
   14. [Review of cyber-attack detection methods in Smart Grid SCADA systems](https://www.cerme-togo.org/public/images/publication/CERME-05082024060606-Review_of_cyber_attack_detection_methods_in_Smart_Grid_SCADA_systems_Abasse_KPEGOUNI_HITECH_Conf_2023.pdf)
   15. [Potential smart grid vulnerabilities to cyber attacks: Current threats and existing mitigation strategies](https://www.sciencedirect.com/science/article/pii/S240584402414011X)
-
+16. [Predicting smart grid stability using machine learning algorithms](https://ieeexplore.ieee.org/document/9800733)
 
 #### Research Paper #1 - [Link 1](https://ieeexplore.ieee.org/document/9337067)
     #1 - A Review on SMART GRID Power System Network
