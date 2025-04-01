@@ -51,18 +51,24 @@
     #3 - Prediction of False Data Injection Attacks in Smart Grid using AdaBoost, Deep Learning, and KNN
     Theme:
     This paper examines the ways advanced machine learning algorithms can be used to boost cybersecurity in 
-    smart grid systems, particularly in predicting false data injection attacks (FDIAs), which are becoming more prevalent and disruptive cyber attacks.
+    smart grid systems, particularly in predicting false data injection attacks (FDIAs), which are becoming
+    more prevalent and disruptive cyber attacks.
     Key findings:
-    The study revealed that the K-Nearest Neighbor (KNN) algorithm outperforms other models in predicting FDIAs, achieving the highest accuracy (89%) and F1-score (0.76). 
-    Deep Learning also showed strong performance, especially in precision (0.73), though it requires more computational resources. In comparison, traditional methods like 
-    logistic regression performed poorly, with low recall and precision, emphasizing the limitations of older techniques in dealing with modern cyber threats.
+    The study revealed that the K-Nearest Neighbor (KNN) algorithm outperforms other models in predicting FDIAs,
+    achieving the highest accuracy (89%) and F1-score (0.76).Deep Learning also showed strong performance, 
+    especially in precision (0.73), though it requires more computational resources. In comparison, 
+    traditional methods like logistic regression performed poorly, with low recall and precision, emphasizing 
+    the limitations of older techniques in dealing with modern cyber threats.
     Methodology:
-    The authors compared the performance of three machine learning algorithms—AdaBoost, Deep Learning, and KNN—on an openly available smart grid dataset. The comparison was made 
-    using four most informative performance metrics: accuracy, precision, recall, and F1-score. The dataset included normal and attack signs so that models can 
+    The authors compared the performance of three machine learning algorithms—AdaBoost, Deep Learning, and
+    KNN—on an openly available smart grid dataset. The comparison was made  using four most informative performance 
+    metrics: accuracy, precision, recall, and F1-score. The dataset included normal and attack signs so that models can 
     learn and distinguish between legitimate and malicious behavior efficiently.
     Research Gap:
-    While the performance is better in the case of Deep Learning and KNN, research indicates emphasizing the importance of analyzing other models such as SVC, LDA, and Naïve Bayes 
-    for further boosting detection rates. Repeating similar procedures on other datasets and even in other main infrastructure systems is another activity to be carried out in the future.
+    While the performance is better in the case of Deep Learning and KNN, research indicates emphasizing the
+    importance of analyzing other models such as SVC, LDA, and Naïve Bayes for further boosting detection rates. 
+    Repeating similar procedures on other datasets and even in other main infrastructure systems is another 
+    activity to be carried out in the future.
     
     
   
