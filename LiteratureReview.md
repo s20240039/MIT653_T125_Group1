@@ -29,11 +29,16 @@
     
     Theme: The paper explores the evolution of electrical grid systems to a "Smart Grid" system.
 
-    Key Findings: The study revealed the benefits of a Smart Grid compared to the traditional distributed electric grid. It can be beneficial in high-level automation that offers great efficiency and better utilization of resources.
+    Key Findings: The study revealed the benefits of a Smart Grid compared to the traditional distributed 
+    electric grid. It can be beneficial in high-level automation that offers great efficiency and better 
+    utilization of resources.
 
-    Methodology: The researchers put the Traditional Grid and Smart Grid side by side, compared them through different characteristics like for example Tracking and Monitoring which was done manually using Traditional Grid and advancing to digitalizing the control and having a self-monitoring capabilities in Smart Grid. 
+    Methodology: The researchers put the Traditional Grid and Smart Grid side by side, compared them through 
+    different characteristics like for example Tracking and Monitoring which was done manually using Traditional 
+    Grid and advancing to digitalizing the control and having a self-monitoring capabilities in Smart Grid. 
 
-    Research Gap: Although, the paper reviewed the comparison of the old generation of electrical grid systems to the future of smart grid systems. The vulnerabilities and security was not clearly defined in this research.
+    Research Gap: Although, the paper reviewed the comparison of the old generation of electrical grid systems to 
+    the future of smart grid systems. The vulnerabilities and security was not clearly defined in this research.
 
 #### Research Paper #2 - [Link 2](https://ieeexplore.ieee.org/document/10561386)
     #2 - The Role of Machine Learning Algorithms in Smart Grid Cybersecurity.
