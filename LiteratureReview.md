@@ -24,8 +24,13 @@
   7. [Secure the smart grid by machine learning](https://ieeexplore.ieee.org/document/10128269)
   8. [Evolution of Machine Learning in Smart Grids](https://ieeexplore.ieee.org/document/9182023)
   9. [The Core of a Smart Grid: Internet of Energy and Machine Learning](https://ieeexplore.ieee.org/document/9987139)
+  10. [Cyber-Attack Detection in Smart Grids Using Machine Learning Approach](https://ieeexplore.ieee.org/document/10455586)
+  11. [Analysis of Anomaly Detection Approaches Performed Through Deep Learning Methods in SCADA Systems](https://ieeexplore.ieee.org/document/9461273)
+  12. [Detecting Cyber Attacks in a Cyber-physical Power System: A Machine Learning Based Approach](https://ieeexplore.ieee.org/document/9986990)
+  13. [New Approach to Determine DDoS Attack Patterns on SCADA System Using Machine Learning](https://ieeexplore.ieee.org/document/8716432)
+  14. [Review of cyber-attack detection methods in Smart Grid SCADA systems](https://www.cerme-togo.org/public/images/publication/CERME-05082024060606-Review_of_cyber_attack_detection_methods_in_Smart_Grid_SCADA_systems_Abasse_KPEGOUNI_HITECH_Conf_2023.pdf)
+  15. [Potential smart grid vulnerabilities to cyber attacks: Current threats and existing mitigation strategies](https://www.sciencedirect.com/science/article/pii/S240584402414011X)
 
-<br>
 
 #### Research Paper #1 - [Link 1](https://ieeexplore.ieee.org/document/9337067)
     #1 - A Review on SMART GRID Power System Network
