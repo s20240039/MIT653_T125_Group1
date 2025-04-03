@@ -94,7 +94,30 @@
     detection rates. Repeating similar procedures on other datasets and even in other main infrastructure systems
     is another activity to be carried out in the future.
     
+
+ #### Research Paper #4 - [Link 4](https://ieeexplore.ieee.org/document/10455586)
+    #4 - Cyber-Attack Detection in Smart Grids Using Machine Learning Approach
+    Theme
+    The focus of the article is the application of machine learning techniques, and in this case, more explicitly an 
+    Artificial Neural Network (ANN) model for cyber-attack detection in smart grids. The research focuses on distinguishing 
+    between natural faults, cyber-attacks, and normal operating conditions within the power system.
+
+    Key Findings  
+    1. An ANN model outperforms traditional such as Logistic Regression and Random Forest in classifying faults within the smart grid, achieving an F1 score above 0.95 for various datasets.
+    2. The ANN model achieved the highest precision and recall compared to other algorithm showing the ability to accurately identifying various types of faults.
+    3. The ANN model showed high versatility in false positive cases, meaning that even though it had high performance, it occasionally classified normal operations as attacks.
     
+    Methodology
+    The study comprises a four-layered ANN model for fault classification in combination with data pre-processing techniques    that improve the efficiency of the model. The dataset was generated from a 3 bus 2-line 
+    system and integrated data from 15 different machines. The research compared the performance of this ANN against conventional machine learning methods: Logistic Regression and Random Forest in this case using F1 
+    score, precision, and recall.
+    
+    Research Gaps
+	  1. The results state the limitation of the small dataset used for testing the ANN model, so further research would focus on larger datasets to improve reliability and accuracy towards cyber-attack detection.
+    2. There is more to be discovered from the high false positive rate observed from the ANN model, which may impact its practical application in the real-world situation.
+    
+	  These findings and gaps show the potential of machine learning in enhancing cyber security in smart power grids and some grounds for further research.
+
   
 
 
