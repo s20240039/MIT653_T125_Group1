@@ -22,7 +22,7 @@ Aspects to be discussed and clarified:
             
             o	Unsure
             
-  3.  How do you think machine learning can improve the detection of DDoS attacks in smart grid systems?
+   3.  How do you think machine learning can improve the detection of DDoS attacks in smart grid systems?
 
 
             o	By identifying traffic anomalies
@@ -58,7 +58,7 @@ Aspects to be discussed and clarified:
             
             o	Other 
             
-   6.	In your opinion, how effective is machine learning in detecting DDoS attacks in general?
+    6.	In your opinion, how effective is machine learning in detecting DDoS attacks in general?
        
             o	Very well
            	
@@ -68,7 +68,7 @@ Aspects to be discussed and clarified:
             
             o	Not sure
       
-   7.	Do you believe that machine learning can provide real-time threat detection for smart grids?
+    7.	Do you believe that machine learning can provide real-time threat detection for smart grids?
       
             o	Very confident
       
