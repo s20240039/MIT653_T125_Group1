@@ -4,10 +4,10 @@ Aspects to be discussed and clarified:
 3.	How the survey will be conducted and distributed:
 4.	Selected sample for your survey
 5.	Structure of the survey:
-   
+   Ask their position or role in the company
       Quantative Questions
   	
-  	1.	How familiar are you with machine learning techniques used in cybersecurity?
+    1. How familiar are you with machine learning techniques used in cybersecurity?
             
             o	Very familiar
         	
@@ -15,7 +15,7 @@ Aspects to be discussed and clarified:
         	
             o	Not familiar
   	
-   2.	Do you think machine learning is an effective method for detecting cyberattacks on smart grids?
+   2. Do you think machine learning is an effective method for detecting cyberattacks on smart grids? to what level do you believe!!
             o	Yes
            	
             o	No
