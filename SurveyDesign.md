@@ -1,9 +1,29 @@
 Aspects to be discussed and clarified:
 1.	Objectives of the survey:
+
+	• To assess expert and academic perspectives on the use of machine learning for detecting DDoS attacks in 
+          smart grid systems.
+		
+	• To identify commonly used ML techniques and their perceived effectiveness in smart grid cybersecurity.
+	
+	• To understand current challenges and opportunities in applying ML for real-time threat detection in critical 
+	  infrastructure.
+
+
    
 3.	How the survey will be conducted and distributed:
-4.	Selected sample for your survey
-5.	Structure of the survey:
+   
+   	The survey will be conducted using online platform, and will be distributed via email Invitations, social media 	groups 
+        such as linkedIn and Reddits forum, academic mailing list and professional networks.
+  	
+6.	Selected sample for your survey
+   
+   	We will be aming for atleast 100 responses
+  	
+8.	Structure of the survey:
+   	The survey consist of:
+  	9 close-ended questions, focused on machine learning technique, smart grid cybersecurity and Dos attack.
+  	1 open-ended question, for more detailed feedback. 
    
      Quantitative Questions
 
