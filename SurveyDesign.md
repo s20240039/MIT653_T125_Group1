@@ -31,19 +31,11 @@ Aspects to be discussed and clarified:
 1.	What is your current role or position in your organization or industry?
 
          
-         o	Undergraduate student
+         o	Student studying cybersecurity, machine learning, or energy 			systems (Undergraduate/Postgraduate)
          
-         o	Postgraduate student
+         o	Academic/Researcher in cybersecurity or smart grid systems 			(e.g., Lecturer, Professor, Researcher)
          
-         o	Lecturer/Professor
-         
-         o	Researcher
-         
-         o	Cybersecurity professional
-         
-         o	Smart grid/energy systems engineer
-         
-         o	Other (please specify)
+         o	Industry professional in cybersecurity or smart grid/energy 			systems (e.g., Engineer, Analyst)
            	
 
 2.	How familiar are you with machine learning techniques used in cybersecurity?          
@@ -100,17 +92,8 @@ Aspects to be discussed and clarified:
          
          o	Other
             
-7.	In your opinion, how effective is machine learning in detecting DDoS attacks in general?
-	
-         o	Very well
-         
-         o	Somewhat well
-         
-         o	Not well
-         
-         o	Not sure
 
-8.	What is the main challenge in using machine learning for smart grid cybersecurity?
+7.	What is the main challenge in using machine learning for smart grid 		cybersecurity?
 
          o	Not enough data
          
@@ -122,7 +105,7 @@ Aspects to be discussed and clarified:
          
          o	Other (please specify)
                    
-9.	Do you believe that machine learning can provide real-time threat detection for smart grids?
+8.	Do you believe that machine learning can provide real-time threat 		detection for smart grids?
                   	
          o	Very confident
          
