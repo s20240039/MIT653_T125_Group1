@@ -27,15 +27,20 @@ Aspects to be discussed and clarified:
    
      Quantitative Questions
 
+
+   Ethical Statement:Participation in this survey is voluntary. Your responses will be kept anonymous and confidential. The data 	   collected will be used solely for academic research purposes related to the study of machine learning applications in detecting DDoS 
+   attacks on smart grids. You may choose to withdraw at any time without any consequences. By continuing with the survey, you indicate 
+   your consent to participate.
+
     
 1.	What is your current role or position in your organization or industry?
 
          
-         o	Student studying cybersecurity, machine learning, or energy 			systems (Undergraduate/Postgraduate)
+         o	Student studying cybersecurity, machine learning, or energy systems (Undergraduate/Postgraduate)
          
-         o	Academic/Researcher in cybersecurity or smart grid systems 			(e.g., Lecturer, Professor, Researcher)
+         o	Academic/Researcher in cybersecurity or smart grid systems (e.g., Lecturer, Professor, Researcher)
          
-         o	Industry professional in cybersecurity or smart grid/energy 			systems (e.g., Engineer, Analyst)
+         o	Industry professional in cybersecurity or smart grid/energy systems (e.g., Engineer, Analyst)
            	
 
 2.	How familiar are you with machine learning techniques used in cybersecurity?          
