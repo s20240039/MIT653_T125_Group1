@@ -128,3 +128,30 @@ Aspects to be discussed and clarified:
    (Please provide any specific suggestions or insights you may have.)
 
 7.	Discuss ethical considerations of conducting and distributing the survey
+
+
+Potential risk:There are minimal risk assiciated with this survey. 
+
+ The survey is mainly focused in professional opionion regarding machine learning applications for smart grid cybersecurity and does not touch upon private or sensitive issues. Participants have the ability to withdraw their participation at any moment or skip any questions they would prefer to not answer in order to avoid any potential discomfort.
+
+
+ Benefits: Although there may not be any immediate advantages for participants, the study advances knowledge on how machine learning can improve cybersecurity in vital infrastructures like smart grids. The results could benefit the larger academic, professional, and societal sectors by enhancing future cybersecurity approaches.
+
+ 
+
+ Informed Consent: At the start of the survey, participants will receive an ethical statement outlining the goal of the study, how the data will be used, their voluntary involvement, and the guarantee of privacy. Participants acknowledge their informed consent by continuing with the survey. Participants will provide 
+their informed concent, by continuing with the survey.
+
+ 
+
+ Right to Withdraw: Participants are free to leave the survey at any point, they are not required to provide any reason and wont face any penalty. They can leave the survey by just simply closing the survey window.
+
+ 
+
+ Confidentiality: The survey data is accessible only to the research team and stored safely. The survey will not collect any personal or identifiable information unless explicitly stated and agreed upon. The collected data will be protected 
+according to the university research ethical guidelines and applicable laws.
+
+
+Anomility: The survey is completely anonymous. Unless participants freely 
+provide such information in open-ended responses, no names, contact 
+information, or organisational affiliations will be gathered (and even then, data will be treated properly.)
