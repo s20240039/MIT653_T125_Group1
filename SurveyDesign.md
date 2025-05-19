@@ -13,12 +13,11 @@ Aspects to be discussed and clarified:
    
 3.	How the survey will be conducted and distributed:
    
-   	The survey will be conducted using online platform, and will be distributed via email Invitations, social media 	groups 
-        such as linkedIn and Reddits forum, academic mailing list and professional networks.
+   	The survey will be conducted using online platform, and will be distributed via email Invitations, social media 	groups such as linkedIn and Reddits forum, academic mailing list and professional networks.
   	
 6.	Selected sample for your survey
    
-   	We will be aming for atleast 100 responses
+   	We will be aming for atleast 100 participants
   	
 8.	Structure of the survey:
    	The survey consist of:
@@ -28,9 +27,10 @@ Aspects to be discussed and clarified:
      Quantitative Questions
 
 
-   Ethical Statement:Participation in this survey is voluntary. Your responses will be kept anonymous and confidential. The data 	   collected will be used solely for academic research purposes related to the study of machine learning applications in detecting DDoS 
-   attacks on smart grids. You may choose to withdraw at any time without any consequences. By continuing with the survey, you indicate 
-   your consent to participate.
+   Ethical Statement:Participation in this survey is voluntary. Your responses will be kept anonymous and confidential. 
+   The data  collected will be used solely for academic research purposes related to the study of machine learning 
+   applications in detecting DoS attacks on smart grids. You may choose to withdraw at any time without any consequences. 
+   By continuing with the survey, you indicate your consent to participate.
 
     
 1.	What is your current role or position in your organization or industry?
@@ -155,3 +155,16 @@ according to the university research ethical guidelines and applicable laws.
 Anomility: The survey is completely anonymous. Unless participants freely 
 provide such information in open-ended responses, no names, contact 
 information, or organisational affiliations will be gathered (and even then, data will be treated properly.)
+
+
+Research Timeline
+Survey Distribution:
+Data collection:
+Data analysis:
+Submission:
+
+Declaration 
+We confirm that the information providen in this form is accurat, and we will conduct the research in accordance with the university's ethical guidelines and we will not start collecting data until we recieve formal ethical approval from the university.
+
+
+
