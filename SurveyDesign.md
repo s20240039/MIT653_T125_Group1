@@ -158,10 +158,15 @@ information, or organisational affiliations will be gathered (and even then, dat
 
 
 Research Timeline
+
 Survey Distribution:
+
 Data collection:
+
 Data analysis:
+
 Submission:
+
 
 Declaration 
 We confirm that the information providen in this form is accurat, and we will conduct the research in accordance with the university's ethical guidelines and we will not start collecting data until we recieve formal ethical approval from the university.
