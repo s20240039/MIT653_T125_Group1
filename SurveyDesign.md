@@ -146,7 +146,6 @@ their informed concent, by continuing with the survey.
 
  Right to Withdraw: Participants are free to leave the survey at any point, they are not required to provide any reason and wont face any penalty. They can leave the survey by just simply closing the survey window.
 
- 
 
  Confidentiality: The survey data is accessible only to the research team and stored safely. The survey will not collect any personal or identifiable information unless explicitly stated and agreed upon. The collected data will be protected 
 according to the university research ethical guidelines and applicable laws.
@@ -158,6 +157,7 @@ information, or organisational affiliations will be gathered (and even then, dat
 
 
  Data Management:
+ 
  Data Storage: All the survey responses will be collected through google form and stored in a secure cloud 
  platform(Microsoft form) approved by the university. The collected data will be stored for 5 years.
 
