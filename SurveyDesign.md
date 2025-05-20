@@ -13,7 +13,7 @@ Aspects to be discussed and clarified:
    
 3.	How the survey will be conducted and distributed:
    
-   	The survey will be conducted using online platform, and will be distributed via email Invitations, social media 	groups such as linkedIn and Reddits forum, academic mailing list and professional networks.
+   	The survey will be conducted using online platform, and will be distributed via email Invitations, social media groups such as linkedIn and Reddits forum, academic mailing list and professional networks.
   	
 6.	Selected sample for your survey
    
@@ -157,19 +157,33 @@ provide such information in open-ended responses, no names, contact
 information, or organisational affiliations will be gathered (and even then, data will be treated properly.)
 
 
-Research Timeline
+ Data Management:
+ Data Storage: All the survey responses will be collected through google form and stored in a secure cloud 
+ platform(Microsoft form) approved by the university. The collected data will be stored for 5 years.
 
-Survey Distribution:
+ Data Security:
+ The collected data will be stored in password protected folder and can be accessed only by researchers and superviser.
+ If there ia any identifiable information present, it will be separated and anonymised.
 
-Data collection:
-
-Data analysis:
-
-Submission:
+ Data Disposal:
+ All the digital data collected will be permanantly deleted after 5 years using secure University IT deletion tool called 
+ Blancoo. And we will shred the printed material, if any.
 
 
-Declaration 
-We confirm that the information providen in this form is accurat, and we will conduct the research in accordance with the university's ethical guidelines and we will not start collecting data until we recieve formal ethical approval from the university.
+Declaration:
+
+Principal Investigator’s Declaration:
+
+I confirm that I have read and understood the ethical guidelines provided by Sydney Polytechnic Institute. I agree to conduct this research in accordance with these guidelines and the ethical principles outlined in this application.
+Signature: __________________________
+Date: __________________________
+
+Supervisor’s Declaration:
+
+I confirm that I have reviewed this ethics application and that the proposed research complies with the ethical standards of Sydney Polytechnic Institute
+Signature: __________________________
+Date: __________________________
+
 
 
 
